@@ -5,7 +5,7 @@ entonces
 #lista ante todo
 
 
-## verse mas pequeña el doble
+## verse el doble
 
 
 
